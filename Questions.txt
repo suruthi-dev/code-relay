@@ -1,0 +1,38 @@
+1. Analyse the distribution of glucose level and interpret the results
+2. Examine the distribution of outcome column
+3. Construct a heatmap for the dataset
+4. Construct a scatterplot between Age and BMI
+
+
+5. Analyse the skin-thickness in-correspondance with the Insulin level
+6. Examine the DiabetesPedigreeFunction using  violin plot
+7. Construct boxplot for BloodPressure
+8. Interpret all the plots with the explanation
+
+1. Split the data into train and test (20%)
+2. Build a robust model that classifies whether a patient have diabetes or not based on the feature columns
+3. Construct Classification report consisting of (Accuracy, precision, recall, f1 score) and Confusion matrix depicting the mis-classification rates
+
+
+https://www.kaggle.com/code/aryantiwari123/diabetes-prediction-eda-10-models#Exploratory-Data-Analysis
+
+
+5. **Analyse the skin-thickness in-correspondance with the Insulin level   (5 Marks)**
+
+---
+
+
+6. **Examine the DiabetesPedigreeFunction using  violin plot   (5 Marks)**
+
+---
+
+
+7. **Construct boxplot for BloodPressure   (5 Marks)**
+
+---
+
+
+8. **Interpret all the plots with the explanation  (5 Marks)**
+
+---
+
